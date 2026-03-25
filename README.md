@@ -4,7 +4,7 @@
 
 I am an IT student at Meru University of Science and Technology specializing in Machine Learning. I focus on building practical ML solutions and simplifying complex concepts through teaching and community engagement.
 
-* 🎓 IT Student (Machine Learning Track)
+* 🎓 IT Student (Machine Learning Track) 
 * 🤖 Machine Learning & AI Community Lead
 * 📊 Data Science Enthusiast
 * 💡 Passionate about teaching and building real-world ML systems
