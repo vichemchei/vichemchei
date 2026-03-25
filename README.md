@@ -23,7 +23,7 @@ I am an IT student at Meru University of Science and Technology specializing in 
 ## 🛠️ Tech Stack
 
 * **Languages:** Python, SQL
-* **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, tesorflow
+* **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Tensorflow
 * **Tools:** Git, GitHub, Jupyter Notebook
 
 ---
