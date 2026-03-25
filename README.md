@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Hi, I'm Victor Chege
 
-<!--
-**vichemchei/vichemchei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I am an IT student at Meru University of Science and Technology specializing in Machine Learning. I focus on building practical ML solutions and simplifying complex concepts through teaching and community engagement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 IT Student (Machine Learning Track)
+* 🤖 Machine Learning & AI Community Lead
+* 📊 Data Science Enthusiast
+* 💡 Passionate about teaching and building real-world ML systems
+
+---
+
+## 🧠 What I Do
+
+* Build machine learning models using **Python & Scikit-learn**
+* Work on **data preprocessing, model evaluation, and visualization**
+* Teach ML concepts (linear regression, logistic regression, pipelines)
+* Explore **supervised, unsupervised, and reinforcement learning**
+
+---
+
+## 🛠️ Tech Stack
+
+* **Languages:** Python, SQL
+* **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+* **Tools:** Git, GitHub, Jupyter Notebook
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Machine Learning Pipeline Project
+
+* Built end-to-end ML workflows (data cleaning → training → evaluation)
+* Implemented regression and classification models
+
+### 🔹 Classification Optimization
+
+* Compared model performance using different parameters
+* Applied techniques like undersampling and evaluation metrics
+
+### 🔹 Teaching ML Series
+
+* Created structured learning sessions on ML fundamentals
+* Focused on simplifying complex concepts for beginners
+
+---
+
+## 📈 Currently Learning
+
+* Advanced model tuning and optimization
+* Deep Learning fundamentals
+* Real-world ML deployment
+
+---
+
+## 🤝 Open To
+
+* Internship opportunities (ML / Data Science)
+* Open-source collaboration
+* Research and project partnerships
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: (www.linkedin.com/in/victor-chege-b65198367)
+* Email: (victorchege11@gmail.com)
+
+---
+
+⭐ *"Building, learning, and teaching Machine Learning one project at a time."*
