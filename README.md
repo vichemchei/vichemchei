@@ -28,24 +28,6 @@ I am an IT student at Meru University of Science and Technology specializing in 
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Machine Learning Pipeline Project
-
-* Built end-to-end ML workflows (data cleaning → training → evaluation)
-* Implemented regression and classification models
-
-### 🔹 Classification Optimization
-
-* Compared model performance using different parameters
-* Applied techniques like undersampling and evaluation metrics
-
-### 🔹 Teaching ML Series
-
-* Created structured learning sessions on ML fundamentals
-* Focused on simplifying complex concepts for beginners
-
----
 
 ## 📈 Currently Learning
 
